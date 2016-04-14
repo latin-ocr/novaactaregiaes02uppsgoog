@@ -1,0 +1,50 @@
+24 A. D. WonERsAmu ,
+
+on the Orbit‚ r the radius-vector and b the helioeentrie latitude over the
+Eeliptie of the Epoeh, then
+
+ν = 112⁰. 58¹. 27⁶. s ψ 79⁰. 3657813.t
+ψ (63917'. 706 - 3¹¹. 61707.t) . sin (vm ψ ε-ω)
+÷ (6173. 814 - o. eoem.» . sin 2.(n.t÷ ε-ω)
+(826.eo5 - 0.13973.t).sin3.(n.t÷e—m)
+(126.444 — 0.02847.t).sin4.(n.t÷e—m)
+(21.ooe - o.ooss5.t).sin5.‹n.t÷e-w)
+(2.463 - o.oo121.t).sin6.(n.t÷e-m)
+(1.653 -o.00026.t).sin7.<n.t÷s-0‚)
+o.257.sin8.(n.t÷e-w)
+
+÷÷÷÷÷÷
+
+r = 3 . 0711461 - 0.000 003 768.t
+-(0. 4220541 - 0.000 023 586.t) . cos (n.t÷e-m)
+-(ο.ο325417-0.000οο3648.ι).οοε2.(η.ιψε-ω)
+-(Ο.0037716-0.000000634.ε).οο33.(η.ι-ι-ε-ω)
+-(0.0005193- 0.000000116.t).cos4.(n.t÷2-ae)
+—(0.0000782— 0.000000021.t).eos5.(n.t÷e—m)
+-(0.0000174-'0.oooooooo4.c).cose.(n.t÷s-m)
+-o.'oooooss.00s7.(n.t÷e-m)
+—0.0000002.e088.(n.t÷e—m
+
+sinb = (0.1214137. -0.000001862t)sin(v-52).
+
+The time t is reekoned in Julian years of 365-2- days each from the
+noon of the 1ἰ of Jan. 1856, (Greenwieh). Should t be expressed in days,
+one has only to substitute 782⁴¹.250 instead of 79⁰.3657813‚ to give that
+value also to n in the arguments, and to divide the numbers multiplied by t,
+which express the secular variatiou of the eoeffieients, by 3653 or in other
+
+wordS, to substitute 335‘25 for t throughout the formula.
+
+Corrigenda.
+
+Pago 3.ι Line 4. For Chilometres read Chiliometres
+
+Pago ³. Add aa Boot-note
+The opposition of 18⁶⁶, ocem-ring in the mouth os May, when the planet has ι South dedinatiou os
+:bove 27⁰, in not likely to ῐιιηιίεὶι, at least to observem residing iu Europe, any very favent-able
+opportunities of increasing our knowlogde os this planet.
+
+Pege 13. Line 5. After Lonqitude add aa resen-ed to 21oe Fixe Eeliptic.
+
+Pago 16. Line 7. For eiu read tiu
+

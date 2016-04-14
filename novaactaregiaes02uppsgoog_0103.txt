@@ -1,0 +1,53 @@
+PRov1s1ouAL TflEoRY or LEDA. 5
+
+and undoubtedly it has its advantages, among which it is not a triffing
+one, that a calculator is freed from all anxiety as to whether he have or
+have not picked up all terms of any serious consequence: but on the other
+‚hand it is extremely tiresome 61111 6 great defect in the method, that, if
+one wishes to know the amount of perturbation at any assigned moment,
+it is necessary to divide the time between that moment and the epoch of
+the elements into short intervals, (usually, for the Asteroids, of 20 days),
+and calculate the perturbations for each interval from the epoch of oscula-
+tion till the given date3 aud, as each separate result is employed in ob·
+taining the two next succeding results, any little error that may creep into
+the calculation is dragged into all the following results, and that as pro-
+bably in an exaggerated as in an attenuated - form. I therefore 011 the whole
+much prefer to use a method, that gives the perturbations of the polar coor-
+dinates directly in explicite functions of the time.
+
+The inclination of Leda’s orbit is about equal to, and its excentri-
+city less than those of Mercmy’s. This planet seems therefore to be one
+to which the Laplacean formula is fully applicable‚ and Ι have accordingly
+constructed the theory entirely in accordance with the scheme of the Meca-
+nique Celeste. The symbols used have the same signification and are the
+same as in the great work of Laplace‚ excepting that Ι have written the
+indices under the letters to the right thus, A, , instead of 111 6 parenthesis
+above thus ΑΨ, 66 16 110116 by Laplace, and Ι have introduced, as others ’
+have done before me, the letter H,- with its usual signification, viz
+
+1 ,ζωὴ-..11 2·⁹² .a.A.}.
+da '
+
+i².(n-—n¹) Β--η11 η--η’
+
+ 
+
+ 
+
+ΕΞ
+
+ 
+
+The calculation, being merely provisional and intended for use only
+for a very few years, that is, untill the orbit's elements are known with
+sufficient certainty to justify the undertaking of a more elaborate theory ac-
+cording to Hansen's method, has been carried only to quantities of the first
+order. This, it is hoped, will be sufficient for the purpose aimed at, espe-
+cially as there is no apppoximate commensurability between the mean-motion
+of Leda and that of any of the disturbing planets, except Saturn‚.in which
+case it is true that 13 times the mean-motion of the disturbing planet sur-
+passes twice that of Leda by only 7¹.48¹·‚ thus producing a long inequality
+with a period of about 2769 years, but a term of the 11²h order produced
+by a planet so far distant from the disturbed body as Saturn is from Leda
+can surely never be sensible.
+

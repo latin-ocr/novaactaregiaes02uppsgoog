@@ -1,0 +1,47 @@
+4 A. D. WACKERBARTH,
+
+to 4—3- years, (i. e. from an arc of about 27 ⁰) should be so perfect as to
+represent with strict accuracy the motion of the planet for any very long·
+time. Since the publication of M:r Alle's work the planet has nearly com-
+pleted two revolutione, and accordingly it will soon be time to ascertain, by
+the comparison of calculation with observation, what corrections it is neces-
+sary to apply to the received elements in order that theory may faithfully
+represent this heavenly body's actual motion, and it is with the view of
+facilitating this work that the following provisional theory has been cal-
+culated.
+
+There is one circumstance however which must not here be passed
+over in total silence, since it is possible that it may cause all theory re-
+specting the motion of the Asteroids to be for some time defective, name-
+ly, our inability to determine the action of these bodies in disturbing one
+another. It is indeed certain that their masses are too small even for their
+united attractive energy to have any sensible effect in disturbing the other
+planetary bodies of the Solar System, all of which are situated at a consi-
+derable distance from them. But with eachother it may bc otherwise. The
+mean-distanccs in many instances differ so little from eachother and the
+orbits are so interlaced that some of them can at times come extremely
+near one another, and the effect of a very small body at a very short dis-
+tance may be equal to that of a large body in a more remote position,
+and thus it seems possible, that these little bodies may at times sensibly
+disturb eachother. On this subject however nothing can with certainty bc
+known or asserted untill some method be devised for ascertaining and taking
+into account the masses of these little planets.
+
+The excentricities and inclinations of the minor planets are in general
+so considerable that the ordinary method of Laplace for determining the
+perturbations cannot often be applied. Indeed that method, in order that
+
+the disturbing function may be developable in a convergent form, requires
+the condition*,
+
+2. 31111κα- -
+Vaa
+
+where J is the angle of inclination between the orbits of the disturbed and
+disturbing planets. It therefore becomes necessary in most instances either
+to employ the method of Hansen, which however no one would do till the
+elements were well determined, or to have recourse to the Method of Me-
+chanical Quadratures. This last has been the course universally adopted,
+
+¹ Kowalski, Becher-ebes de l’Observatoire de Kasan. N=o 1. p. 108.
+
